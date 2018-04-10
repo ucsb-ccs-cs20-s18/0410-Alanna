@@ -1,7 +1,9 @@
 
 body   {
-  background-color: #ffffcc
-
+  background-color: #ffffcc;
+  width: 500px;
+  margin-left: auto;
+  margin-right:auto;
 
 
 
